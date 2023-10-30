@@ -1,0 +1,49 @@
+.body-lock {
+  overflow-x: hidden;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a {
+  color: #116db4;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+button {
+  font-family: Roboto Slab, serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0 16px;
+  line-height: 42px;
+  height: 44px;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.input_error_message {
+  color: red;
+}
+
+.input_error_border {
+  border-color: red !important;
+}

@@ -1,0 +1,44 @@
+.social_share_facebook {
+  background-image: url(./../../public/img/icons/social/facebook.svg);
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+}
+
+.social_share_email {
+  background-image: url(./../../public/img/icons/social/email.svg);
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+}
+
+.social_share_messenger {
+  background-image: url(./../../public/img/icons/social/messenger.svg);
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+}
+
+.social_share_twitter {
+  background-image: url(./../../public/img/icons/social/twitter.svg);
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+}
+
+.social_share_whatsapp {
+  background-image: url(./../../public/img/icons/social/whatsapp.svg);
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+}
